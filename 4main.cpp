@@ -84,7 +84,6 @@ void setup() {
   FastLED.clear();
   FastLED.show();
 }
-
 /* ================= DEMO ================= */
 
 void demoAnimation(unsigned long now) {
